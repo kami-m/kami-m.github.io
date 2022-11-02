@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kamilla Muminova Launches her First Site!"
+title: "Kamilla Muminova Launches Her First Site!"
 date: 2022-11-02
 ---
 
